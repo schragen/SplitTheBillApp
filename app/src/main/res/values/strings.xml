@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SplitTheBill</string>
+    <string-array name="txtGroup">
+        <item>Excellent</item>
+        <item>Average</item>
+        <item>Poor</item>
+    </string-array>
+</resources>
